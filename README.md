@@ -4,7 +4,7 @@ we did research today
 ## authors
 - @udaykalra
 - @trulyronak
-- @hexallelogram
+- @hexalellogram
 - @falafel72
 
 ## research
